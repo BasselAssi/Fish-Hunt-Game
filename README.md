@@ -1,0 +1,2 @@
+Un jeu de pêche aux poissons. Vous ne pouvez pas vous permettre de laisser trop de poissons passer... Au bout de 3 poissons ratés, la partie est perdue.
+Le jeu se contrôle à la souris et continue à l’infini, ou jusqu’à ce que 3 poissons aient été ratés (selon lequel arrive en premier).
